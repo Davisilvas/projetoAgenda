@@ -1,8 +1,8 @@
 <?php 
 
     $host = 'localhost';
-    $user = 'davi';
-    $pass = 'davi1234';
+    $user = 'root';
+    $pass = '';
     $db = 'agenda';
 
     try{
